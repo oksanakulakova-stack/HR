@@ -1,6 +1,26 @@
-{
+[
+  {
   "name": "Оксана Кулакова",
   "birthday": "25.02.1993",
   "start_date": "19.11.2025",
   "slack_mention": "@handle або лишіть порожнім"
-}
+  },  
+  {
+    "name": "Олена Коваленко",
+    "birthday": "1994-07-22",
+    "start_date": "2021-03-15",
+    "slack_mention": "@olena"
+  },
+  {
+    "name": "Максим Ткаченко",
+    "birthday": "1990-11-03",
+    "start_date": "2019-07-22",
+    "slack_mention": "@maksym"
+  },
+  {
+    "name": "Ірина Мельник",
+    "birthday": "1998-12-01",
+    "start_date": "2024-06-03",
+    "slack_mention": ""
+  }
+]
